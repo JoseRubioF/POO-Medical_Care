@@ -1,0 +1,1051 @@
+C:\Users\DVill\source\repos\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\DVill\source\repos\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\DVill\source\repos\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\DVill\source\repos\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Canj9\Documents\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+D:\Canj9\Documents\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+D:\Canj9\Documents\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+D:\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+D:\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+D:\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+D:\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+D:\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+D:\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+D:\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Visual\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+D:\Visual\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+D:\Visual\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+D:\Visual\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\Nueva carpeta\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+D:\Canj9\Documents\Medical con cambios de citas\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Canj9\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Pacientes.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Buzzer\Medical Care1\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care1 ventas ready\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\bin\Debug\itextsharp.dll
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\bin\Debug\itextsharp.xml
+C:\Users\pepel\OneDrive\Documentos\SPOILER_Medical_Care_ORIGINAL\Medical Care ORIGINAL\Medical Care\obj\Debug\Medical_Care.RecetasPDF.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\bin\Debug\itextsharp.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\bin\Debug\itextsharp.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.RecetasPDF.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\bin\Debug\itextsharp.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\bin\Debug\itextsharp.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.RecetasPDF.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care Temp\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care v.04.11.58\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care v.05.03.54\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\DVill\Desktop\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Aldo\Desktop\Control\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea carpetas Aldo\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea FaltaPoco\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical CareCrea asopotamadre\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\Canj9\OneDrive\Documents\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\Aldo\Desktop\Poo\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care AHORA si le falta poquito y todos los bugs (1)\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\DVill\Desktop\xboxonehdd-master\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care sdwf\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.io.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.io.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical Care.csprojAssemblyReference.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CopyComplete
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+C:\Users\pepel\OneDrive\Documentos\Medical Care VERSION PARA SOLUCIONAR BUGS FAVOR DE YA NO EDITAR LAS VENTANAS!\Medical Care\Medical Care\obj\Debug\Medical Care.pdb
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Medical Care.exe.config
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Medical Care.exe
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Medical Care.pdb
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Common.Logging.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.barcodes.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.forms.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.io.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.kernel.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.layout.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.pdfa.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.sign.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.svg.dll
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\BouncyCastle.Crypto.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Common.Logging.pdb
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Common.Logging.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.pdb
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\Common.Logging.Core.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.barcodes.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.forms.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.io.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.kernel.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.layout.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.pdfa.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.sign.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.styledxmlparser.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\bin\Debug\itext.svg.xml
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.AssemblyReference.cache
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Administración.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Bienvenida.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Consulta.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Doctores.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Enfermería.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Graficas.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Incorrecto.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Ingresados.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Intendencia.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Login.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Logout.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Properties.Resources.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.ReportesVentas.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Secretaría.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Solicitar_intendencia.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Usuarios.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical_Care.Vendedores.resources
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.GenerateResource.cache
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical Care.csproj.CoreCompileInputs.cache
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical .B4E6CA0F.Up2Date
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical Care.exe
+D:\Documentos\POO\Medical Care con Manual\Medical Care\Medical Care\obj\Debug\Medical Care.pdb

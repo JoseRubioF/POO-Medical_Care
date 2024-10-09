@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|d:\\documentos\\poo\\medical care con manual\\medical care\\medical care\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|solutionrelative:medical care\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|d:\\documentos\\poo\\medical care con manual\\medical care\\medical care\\sqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|solutionrelative:medical care\\sqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|d:\\documentos\\poo\\medical care con manual\\medical care\\medical care\\sqlitedbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|solutionrelative:medical care\\sqlitedbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|d:\\documentos\\poo\\medical care con manual\\medical care\\medical care\\validaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|solutionrelative:medical care\\validaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|d:\\documentos\\poo\\medical care con manual\\medical care\\medical care\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|solutionrelative:medical care\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|d:\\documentos\\poo\\medical care con manual\\medical care\\medical care\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8086610B-5601-447C-B815-292B23CB9EC9}|Medical Care\\Medical Care.csproj|solutionrelative:medical care\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLiteDbData.cs",
+              "DocumentMoniker": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\SQLiteDbData.cs",
+              "RelativeDocumentMoniker": "Medical Care\\SQLiteDbData.cs",
+              "ToolTip": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\SQLiteDbData.cs",
+              "RelativeToolTip": "Medical Care\\SQLiteDbData.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:28:09.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDb.cs",
+              "DocumentMoniker": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\SQLiteDb.cs",
+              "RelativeDocumentMoniker": "Medical Care\\SQLiteDb.cs",
+              "ToolTip": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\SQLiteDb.cs",
+              "RelativeToolTip": "Medical Care\\SQLiteDb.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:28:02.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validaci\u00F3n.cs",
+              "DocumentMoniker": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Validaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "Medical Care\\Validaci\u00F3n.cs",
+              "ToolTip": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Validaci\u00F3n.cs",
+              "RelativeToolTip": "Medical Care\\Validaci\u00F3n.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:27:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Program.cs",
+              "RelativeDocumentMoniker": "Medical Care\\Program.cs",
+              "ToolTip": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Program.cs",
+              "RelativeToolTip": "Medical Care\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:27:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultas.cs [Design]",
+              "DocumentMoniker": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Consultas.cs",
+              "RelativeDocumentMoniker": "Medical Care\\Consultas.cs",
+              "ToolTip": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Consultas.cs [Design]",
+              "RelativeToolTip": "Medical Care\\Consultas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:27:15.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bienvenida.cs [Design]",
+              "DocumentMoniker": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Bienvenida.cs",
+              "RelativeDocumentMoniker": "Medical Care\\Bienvenida.cs",
+              "ToolTip": "D:\\Documentos\\POO\\Medical Care con Manual\\Medical Care\\Medical Care\\Bienvenida.cs [Design]",
+              "RelativeToolTip": "Medical Care\\Bienvenida.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:27:12.189Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
